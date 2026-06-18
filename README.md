@@ -21,7 +21,7 @@ This is the first version of the project focused on completing the basic layout 
 ✅ HTML completed  
 ✅ CSS styling completed  
 ⏳ Responsive design coming soon  
-⏳ JavaScript functionality coming soon  
+✅ JavaScript functionality Done 
 
 ## Future Updates
 
