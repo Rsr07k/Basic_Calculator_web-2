@@ -143,11 +143,12 @@ btns.forEach((btn) => {
             curr = getpostfix(curr);
             curr = evaluate(curr);
             
-            // Format answer smoothly
             if (!isNaN(curr)) {
-                curr = parseFloat(curr.toPrecision(5));
+                curr = parseFloat(curr.toFixed(5));
             }
             ans.textContent = curr;
         }
+        ans.scrollLeft=ans.scrollWidth;
+         
     });
 });

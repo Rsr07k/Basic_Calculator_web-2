@@ -1,6 +1,6 @@
 # Calculator Website
 
-A simple calculator UI built using **HTML** and **CSS**.  
+A simple calculator UI built using **HTML** and **CSS** **JavaScript**.  
 This is the first version of the project focused on completing the basic layout and design.
 
 ## Current Features
@@ -9,24 +9,26 @@ This is the first version of the project focused on completing the basic layout 
 - Modern UI design
 - Gradient background
 - Styled buttons and display screen
-- Basic responsive structure started
+- Responsive Web Design
+- JavaScript Functionality 
+- Implemented Data Structure(Stack)
+ 
 
 ## Tech Stack
 
 - HTML5
 - CSS3
+- JavaScript
 
 ## Project Status
 
 ✅ HTML completed  
 ✅ CSS styling completed  
-⏳ Responsive design coming soon  
+✅ Responsive design 
 ✅ JavaScript functionality Done 
 
 ## Future Updates
 
-- Add full calculator functionality using JavaScript
-- Improve responsiveness for all devices
 - Add animations and hover effects
 - Keyboard support
 - Dark/Light mode improvements
